@@ -1,7 +1,3 @@
-# Placement_tracker
-A full-stack MERN application to track job applications and interview status
-
-
 # Placement Tracker (MERN)
 
 A full-stack application to manage and track job applications.
